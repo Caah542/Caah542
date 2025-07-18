@@ -52,10 +52,6 @@ Servidora pública formada em direito e dando os meus primeiros passos na área 
   <img src="https://github-profile-trophy.vercel.app/?username=Caah542&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
-## 🐍 Contribution Graph:
-<div align="center">
-  <img src="https://github.com/Caah542/Caah542/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
 
 ## 📈 Profile Views:
 <div align="center">
