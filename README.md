@@ -59,8 +59,8 @@ Servidora pública formada em direito e dando os meus primeiros passos na área 
 
 ## 🤝 Connect with me:
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/caroline-de-carvalho-soares-ab7033114?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:carolinecarvalho542@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
