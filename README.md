@@ -5,13 +5,12 @@
 Servidora pública formada em direito e dando os meus primeiros passos na área de Tech!
 
 ## 🗣️ Talking about Personal Stuffs:
-- 👨🏽‍💻 Atualmente estou trabalhando em diversos projetos para otimizar as rotinas de meu setor (e as minhas também!)
-- 🌱 Estou aprendendo Python, Fundamentos de Data Science, Banco de Dados e outras coisas mais, além de suas aplicações ao direito.
-- 👯 I'm looking to collaborate on **[Projeto que busca colaboração](link-do-projeto)** 🤝;
-- 🤔 I'm looking for help with **[Área que precisa de ajuda]** 😭;
+- 👨🏽‍💻 Actually, i'm working on a bunch of random projects that might help improving my work enviroment.
+- 🌱 I'm learning Python, Data Science essencials and other random useful stuff (that might be useful and applicable to law).
+- 🤔 Any help is appreciated.** 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: **[Fato interessante sobre você]**;
-- 📫 How to reach me: **[seu.email@exemplo.com](mailto:seu.email@exemplo.com)**;
+- ⚡️ Fun-Fact: **people may think lawyers are not great coders... THEY ARE WRONG!**;
+- 📫 How to reach me: **In progress**;
 
 ## 🛠️ Languages and Tools:
 
@@ -20,24 +19,21 @@ Servidora pública formada em direito e dando os meus primeiros passos na área 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
