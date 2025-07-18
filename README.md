@@ -1,15 +1,15 @@
-# Hi there, i'm Carol! 
+# Hi there, I'm Carol! 
 
 ## 🚀 About Me
 
 Servidora pública formada em direito e dando os meus primeiros passos na área de Tech!
 
 ## 🗣️ Talking about Personal Stuffs:
-- 👨🏽‍💻 Actually, i'm working on a bunch of random projects that might help improving my work enviroment. Also, learning Deutsch!
-- 🌱 I'm learning Python, Data Science essencials and other random useful stuff (that might be useful and applicable to law).
-- 🤔 Any help is appreciated.** 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: **people may think lawyers are not great coders... THEY ARE WRONG!**;
+- 👨🏽‍💻 Currently, i'm working on a bunch of random projects that might help improving my work environment. Also, learning Deutsch!
+- 🌱 I'm learning Python, Data Science essentials and other random useful stuff (that might be useful and applicable to law).
+- 🤔 Any help is appreciated.
+- 💬 Ask me about anything, I am happy to help.
+- ⚡️ Fun-Fact: **People may think lawyers are not great coders... THEY ARE WRONG!**;
 - 📫 How to reach me: **In progress**;
 
 ## 🛠️ Languages and Tools:
