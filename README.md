@@ -1,4 +1,4 @@
-# Hi there, I'm Carol! 👋
+# Hi there, i'm Carol! 
 
 ## 🚀 About Me
 
@@ -39,24 +39,24 @@ Servidora pública formada em direito e dando os meus primeiros passos na área 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caah542&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caah542&layout=compact&langs_count=8&theme=dark"/>
-</div>
+ </div>
 
-## 🔥 GitHub Streak:
+
+
+📈 GitHub Activity Graph:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caah542&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caah542&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-## 🏆 GitHub Trophies:
+
+
+🏆 GitHub Trophies:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Caah542&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
 
-## 📈 Profile Views:
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Caah542&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
+
 
 ## 🤝 Connect with me:
 <div align="center">
