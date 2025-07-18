@@ -44,17 +44,17 @@ Servidora pública formada em direito e dando os meus primeiros passos na área 
 
 ## 🔥 GitHub Streak:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caah542&theme=dark" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Caah542&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
 ## 🐍 Contribution Graph:
 <div align="center">
-  <img src="https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/Caah542/Caah542/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 ## 📈 Profile Views:
