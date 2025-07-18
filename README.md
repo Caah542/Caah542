@@ -1,4 +1,4 @@
-# Hi there, I'm [SEU NOME] 👋
+# Hi there, I'm Carol! 👋
 
 ## 🚀 About Me
 
