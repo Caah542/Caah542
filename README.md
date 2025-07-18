@@ -59,7 +59,7 @@ Servidora pública formada em direito e dando os meus primeiros passos na área 
 
 ## 📈 Profile Views:
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Caah542&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ## 🤝 Connect with me:
@@ -73,7 +73,7 @@ Servidora pública formada em direito e dando os meus primeiros passos na área 
 ---
 
 <div align="center">
-  <h3>⭐️ From [SEU_USERNAME](https://github.com/SEU_USERNAME)</h3>
+  <h3>⭐️ From [Caah542](https://github.com/Caah542)</h3>
 </div>
 
 <!--
