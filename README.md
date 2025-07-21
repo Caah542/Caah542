@@ -6,29 +6,24 @@ Apaixonada por jogos desde pequena, acabei desenvolvendo uma afinidade com a ide
 Atualmente, estudo com foco em apresentar melhorias ao meu setor e à instituição como um todo.
 
 
-## 🗣️ Talking about Personal Stuffs:
-- 👨🏽‍💻 Currently, i'm working on a bunch of random projects that might help improving my work environment. Also, learning Deutsch!
-- 🌱 I'm learning Python, Data Science essentials and other random useful stuff (that might be useful and applicable to law).
-- 🤔 Any help is appreciated.
-- 💬 Ask me about anything, I am happy to help.
-- ⚡️ Fun-Fact: **People may think lawyers are not great coders... THEY ARE WRONG!**;
-- 📫 How to reach me: **In progress**;
+## Jornada de Aprendizado
+### 🎓 Courses in Progress:
+- **Python Completo do Zero ao Avançado + Projetos Reais 2025**: 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
+- **Banco de Dados SQL do Zero ao Avançado + Projetos Reais**:   🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (35%)
+- **The Git & Github Bootcamp**: 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (30%)
+- **2025 Python Data Analysis & Visualization Masterclass**: 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
+
+
+
 
 ## 🛠️ Languages and Tools:
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Backend
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 ### Databases
-
+![SQL](https://img.shields.io/badge/-SQL-3776AB?style=flat-square&logo=SQL&logoColor=blue)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
