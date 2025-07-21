@@ -1,8 +1,10 @@
-# Hi there, I'm Carol! 
+# Olá, sou a Carol! 
 
-## 🚀 About Me
+## 🚀 Sobre mim:
+Sou servidora pública, formada em direito e atualmente lotada no Centro de Apoio Técnico Especializado da Defensoria Pública do Estado do Rio Grande do Sul.
+Apaixonada por jogos desde pequena, acabei desenvolvendo uma afinidade com a identificação de desafios e suas resoluções (ou proposta de), o que consequentemente me trouxe à tecnologia.
+Atualmente, estudo com foco em apresentar melhorias ao meu setor e à instituição como um todo.
 
-Servidora pública formada em direito e dando os meus primeiros passos na área de Tech!
 
 ## 🗣️ Talking about Personal Stuffs:
 - 👨🏽‍💻 Currently, i'm working on a bunch of random projects that might help improving my work environment. Also, learning Deutsch!
