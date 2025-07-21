@@ -9,10 +9,10 @@ Apaixonada por jogos desde pequena, acabei desenvolvendo uma afinidade com a ide
 
 ## Jornada de Aprendizado
 ### 🎓 Cursos em andamento:
-- **Python Completo do Zero ao Avançado + Projetos Reais 2025**: 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
-- **Banco de Dados SQL do Zero ao Avançado + Projetos Reais**:   🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (35%)
-- **The Git & Github Bootcamp**: 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (30%)
-- **2025 Python Data Analysis & Visualization Masterclass**: 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
+- **Python Completo do Zero ao Avançado + Projetos Reais 2025**: 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
+- **Banco de Dados SQL do Zero ao Avançado + Projetos Reais**:   🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (35%)
+- **The Git & Github Bootcamp**: 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (30%)
+- **2025 Python Data Analysis & Visualization Masterclass**: 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
 
 
 
@@ -42,7 +42,7 @@ Apaixonada por jogos desde pequena, acabei desenvolvendo uma afinidade com a ide
 
 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Caah542&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Caah542&theme=flat&no-frame=true&margin-w=15&title_color=8b5cf6&text_color=7c3aed&icon_color=a855f7&bg_color=ffffff" alt="GitHub Trophies"/>
 </div>
 
 ## 🤝 Connect with me:
