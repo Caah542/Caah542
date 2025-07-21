@@ -1,4 +1,4 @@
-# Olá, sou a Carol! 
+# Olá, sou a Carol! ฅ^•ﻌ•^ฅ
 
 ## 🚀 Sobre mim:
 Sou servidora pública, formada em direito e atualmente lotada no Centro de Apoio Técnico Especializado da Defensoria Pública do Estado do Rio Grande do Sul.  
