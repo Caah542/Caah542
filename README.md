@@ -9,7 +9,7 @@ Apaixonada por jogos desde pequena, acabei desenvolvendo uma afinidade com a ide
 
 ## Jornada de Aprendizado
 ### 🎓 Cursos em andamento:
-- **Python Completo do Zero ao Avançado + Projetos Reais 2025**: 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
+- **Python Completo do Zero ao Avançado + Projetos Reais 2025**: 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (20%)
 - **Banco de Dados SQL do Zero ao Avançado + Projetos Reais**:   🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (35%)
 - **The Git & Github Bootcamp**: 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (30%)
 - **2025 Python Data Analysis & Visualization Masterclass**: 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
